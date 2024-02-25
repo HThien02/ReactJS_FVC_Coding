@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.staffList img {
+width: 100%;
+}
+.card {
+  width: 90%;
+  margin: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+.card p {
+  margin-top: 10px;
+}
+
+.container {
+  margin-top: 50px;
+}
