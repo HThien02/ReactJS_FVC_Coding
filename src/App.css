@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.staff-list {
+  color: black;
+  display: grid;
+  grid-template-columns: 33.33% 33.33% 33.33%;
+  text-align: center;
+  font-size: 1.2em;
+  gap: 20px;
+}
+.staff-list > div {
+  margin: 5px, 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #61dafb;
+}
