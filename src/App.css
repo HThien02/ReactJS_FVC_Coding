@@ -52,3 +52,39 @@ width: 100%;
 .container {
   margin-top: 50px;
 }
+footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+a {
+  color: white !important;
+  text-decoration: none !important;
+  margin: 0px 10px;
+}
+.cardDepartment {
+  width: 100%;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 10px;
+}
+.cardDepartment p {
+  margin-left: 10px;
+  font-size: 1.2em;
+}
+.cardSalary {
+  width: 90%;
+  margin: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+.cardSalary p {
+  margin-top: 10px;
+}
+.cardSalary .salary {
+  background-color: rgb(180, 180, 180);
+  font-size: 1.3em;
+}
+.staffClick a{
+  color: black !important;
+}
